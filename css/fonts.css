@@ -1,0 +1,28 @@
+﻿/*
+    Fonts for Delenda site
+
+*/
+
+@font-face
+{
+    font-family: Bitsumishi;
+    src: url('../fonts/BITSUMIS_1.TTF') format("truetype");
+}
+
+@font-face
+{
+    font-family: Clarence;
+    src: url('../fonts/CLARENC.TTF') format('truetype')
+}
+
+@font-face
+{
+    font-family: Paintstroke;
+    src: url('../fonts/PAINTST_0.TTF') format('truetype')
+}
+
+@font-face
+{
+    font-family: FuturaMedium;
+    src: url('../fonts/Futura Medium.otf') format('opentype')
+}
